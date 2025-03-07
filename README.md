@@ -118,7 +118,7 @@ Define the business problem and objectives.
 📌 Gather relevant data from different sources.
 Sources: Databases, APIs, Web Scraping, Sensors, Social Media, etc.
 
-✅ Use Case:
+✅ Use Case:-
 
 Transaction history
 User demographics
@@ -130,7 +130,7 @@ Handle missing values
 Remove duplicates
 Deal with outliers
 Standardize and normalize data
-✅ Use Case:
+✅ Use Case:-
 
 Remove duplicate transactions
 Fill missing values in location data
@@ -140,7 +140,7 @@ Convert categorical data (e.g., transaction type) into numerical format
 Identify trends and correlations
 Detect anomalies
 Use visualizations (histograms, scatter plots, heatmaps)
-✅ Use Case:
+✅ Use Case:-
 
 Identify common transaction locations for fraud cases
 Check spending patterns of fraudsters vs. genuine users
@@ -149,7 +149,7 @@ Visualize fraud occurrences over time
 📌 Select and create the most relevant features for modeling.
 Transform raw data into meaningful variables
 Select key attributes impacting fraud detection
-✅ Use Case:
+✅ Use Case:-
 
 Create new features like "Transaction Frequency per User"
 Identify "Unusual Location Transactions"
@@ -159,7 +159,7 @@ Detect "Time-based Anomalies" (e.g., transactions at 3 AM)
 Choose ML algorithms (Decision Trees, Random Forest, Neural Networks, etc.)
 Split data into training and testing sets
 Train and fine-tune the model
-✅ Use Case:
+✅ Use Case:-
 
 Use Random Forest for classification
 Train model on historical transaction data
